@@ -1,0 +1,16 @@
+set1 :
+1 : Read a string of characters and print them in just reverse order
+2 : Read Full name and interpret first name middlename(optional) and last name separated by single or more contigousspace exception need to be proceed
+
+set 2:
+3 : a class in a scholl have 40 students. write a java program to find the mean and max score in eng
+4 :a company has 20 employee with salaray rs 20000/- for 15% of them,25000/- for 3 and 50000/- for the remaining 2.wirte a java program to find what % of these to be announced
+uniformly when the available fund id rs 70000/- on account of bonus
+
+set 3:
+5: state a problem that may be solved with a recursive function and implement
+
+6:festival budget for 2000 is anounced inr 10000/- and every year it will increade by 10%.
+write a recursuve function to calculate total expense till 2020
+
+7:given array of integer decide if it is palindrome
